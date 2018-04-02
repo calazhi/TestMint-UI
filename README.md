@@ -11,10 +11,10 @@ vue init webpack project-name
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/calazhi/SCP-Project.git
+git remote add origin https://github.com/calazhi/TestMint-UI.git
 git push -u origin master
 
-#说明：https://github.com/calazhi/SCP-Project.git 是想要关联到的远程仓库地址
+#说明：https://github.com/calazhi/TestMint-UI.git 是想要关联到的远程仓库地址
 ```
 ## Build Setup
 
